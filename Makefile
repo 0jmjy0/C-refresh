@@ -1,2 +1,2 @@
-refresh: refresh.cpp
-	g++ -o refresh refresh.cpp
+hello: hello.cpp
+	g++ -o hello hello.cpp
